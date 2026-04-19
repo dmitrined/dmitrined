@@ -66,11 +66,16 @@ Ich bin Full-Stack-Entwickler mit Fokus auf **Java (Spring Boot)** und **React**
 
 ### 📂 Featured Project: [VinoFlowApp](https://github.com/dmitrined/VinoFlowApp)
 **A Full-Stack solution for modernizing wine production workflows.**
-*Tech: Java 17, Spring Boot, React, MySQL.*
 
----
+| Layer | Technology |
+| --- | --- |
+| **Framework** | Next.js 15.3 (App Router) |
+| **API Layer** | tRPC v11 |
+| **Database** | Turso (libSQL) + Prisma ORM |
+| **Auth** | JWT (Jose) |
+| **State** | Zustand + IndexedDB |
+| **UI** | HeroUI (NextUI) + Tailwind CSS + Framer Motion |
+| **PWA** | @ducanh2912/next-pwa (Offline Ready) |
 
-### 📫 Connect with me
-* **LinkedIn:** [dmitri-nedioglo](https://www.linkedin.com/in/dmitri-nedioglo)
-* **Location:** Stuttgart / Esslingen, Germany 🇩🇪
-* **Availability:** Evenings, Weekends, Fridays (Remote / Hybrid)
+
+
