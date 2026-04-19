@@ -6,38 +6,11 @@
 
 ---
 
-## 🌐 Language / Sprache / Язык
-[English](#english) | [Deutsch](#deutsch) | [Русский](#russian)
-
----
-
-<a name="english"></a>
-## 🇺🇸 English
-**Precision in the cellar, efficiency in the code.**
-I am a Full-Stack Developer specialized in **Java (Spring Boot)** and **React**. With 10+ years of experience in process management and engineering (Oenology), I bring a high level of responsibility and structured thinking to software development.
-
-- **AI-FIRST Workflow:** I leverage **Cursor, GitHub Copilot, and Gemini** to accelerate development, ensure high test coverage, and maintain clean architecture.
-- **Goal:** Currently looking for a **Minijob (8-10h/week)** to contribute my IT expertise and AI-driven efficiency to innovative projects.
-
----
-
-<a name="deutsch"></a>
-## 🇩🇪 Deutsch
 **Präzision im Keller, Effizienz im Code.**
 Ich bin Full-Stack-Entwickler mit Fokus auf **Java (Spring Boot)** und **React**. Durch meine langjährige Erfahrung als leitender Ingenieur (Oenologie) verbinde ich prozessorientiertes Denken mit moderner Softwareentwicklung.
 
 - **AI-FIRST Workflow:** Ich nutze gezielt **Cursor, GitHub Copilot und Gemini**, um die Entwicklung zu beschleunigen, die Testabdeckung zu maximieren und eine saubere Architektur zu garantieren.
 - **Ziel:** Ich suche aktuell eine Nebentätigkeit auf **Minijob-Basis (ca. 8-10 Std./Woche)**, um meine IT-Expertise in professionelle Projekte einzubringen.
-
----
-
-<a name="russian"></a>
-## 🇷🇺 Русский
-**Точность в погребе, эффективность в коде.**
-Я Full-stack разработчик, специализирующийся на **Java (Spring Boot)** и **React**. Мой многолетний опыт работы ведущим инженером в виноделии научил меня управлять сложными процессами и отвечать за результат, что я теперь применяю в IT.
-
-- **AI-FIRST Workflow:** Я активно использую **Cursor, GitHub Copilot и Gemini** для ускорения разработки, написания тестов и поддержания чистоты архитектуры.
-- **Цель:** Ищу подработку в формате **Minijob (8-10 часов в неделю)**, чтобы применить свои навыки и AI-инструменты для решения реальных бизнес-задач.
 
 ---
 
