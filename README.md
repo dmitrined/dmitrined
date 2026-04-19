@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Dmitri Nedioglo
 ### Full-Stack Developer | AI-FIRST Enthusiast | Former Lead Oenologist
 
+**🔗 Quick Links:** 
+[📄 Lebenslauf / CV](./Lebenslauf_Dmitri_Nedioglo.pdf) | [🎓 Zertifikat](./DMITRI%20NEDIOGLO_Zertifikat_Email.pdf) | [📜 Praktikumszeugnis](./DMITRI%20NEDIOGLO_Praktikumszeugnis.pdf) | [🏆 SQL Island](./Certificat_SQL_Island.png)
+
 ---
 
 ## 🌐 Language / Sprache / Язык
@@ -48,6 +51,7 @@ Ich bin Full-Stack-Entwickler mit Fokus auf **Java (Spring Boot)** und **React**
 
 **Frontend:**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
