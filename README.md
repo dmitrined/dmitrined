@@ -65,17 +65,8 @@ Ich bin Full-Stack-Entwickler mit Fokus auf **Java (Spring Boot)** und **React**
 ---
 
 ### 📂 Featured Project: [VinoFlowApp](https://github.com/dmitrined/VinoFlowApp)
-**A Full-Stack solution for modernizing wine production workflows.**
-
-| Layer | Technology |
-| --- | --- |
-| **Framework** | Next.js 15.3 (App Router) |
-| **API Layer** | tRPC v11 |
-| **Database** | Turso (libSQL) + Prisma ORM |
-| **Auth** | JWT (Jose) |
-| **State** | Zustand + IndexedDB |
-| **UI** | HeroUI (NextUI) + Tailwind CSS + Framer Motion |
-| **PWA** | @ducanh2912/next-pwa (Offline Ready) |
+**A Full-Stack solution for modernizing wine production workflows.**<br/>
+**Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat&logo=nextdotjs&logoColor=white) ![tRPC](https://img.shields.io/badge/tRPC_v11-2596BE?style=flat&logo=trpc&logoColor=white) ![Turso](https://img.shields.io/badge/Turso-4DF8D5?style=flat) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white) ![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat&logo=JSON%20web%20tokens&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat) ![HeroUI](https://img.shields.io/badge/HeroUI-000000?style=flat) ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white) ![PWA](https://img.shields.io/badge/Offline_PWA-5A0FC8?style=flat&logo=pwa&logoColor=white)
 
 
 
