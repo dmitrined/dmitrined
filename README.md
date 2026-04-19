@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Dmitri Nedioglo
-### Full-Stack Developer | AI-FIRST Enthusiast | Lead Oenologist
+### Full-Stack Developer | AI-FIRST Enthusiast | Engineer (Oenology)
 
 **🔗 Quick Links:** 
 [📄 Lebenslauf / CV](./Lebenslauf_Dmitri_Nedioglo.pdf) | [🎓 Zertifikat](./DMITRI%20NEDIOGLO_Zertifikat_Email.pdf) | [📜 Praktikumszeugnis](./DMITRI%20NEDIOGLO_Praktikumszeugnis.pdf) | [🏆 SQL Island](./Certificat_SQL_Island.png)
@@ -7,7 +7,7 @@
 ---
 
 **Präzision im Keller, Effizienz im Code.**
-Ich bin Full-Stack-Entwickler mit Fokus auf **Java (Spring Boot)** und **React**. Durch meine langjährige Erfahrung als leitender Ingenieur (Oenologie) verbinde ich prozessorientiertes Denken mit moderner Softwareentwicklung.
+Ich bin Full-Stack-Entwickler mit Fokus auf **Java (Spring Boot)** und **React**. Durch meine langjährige Erfahrung als Ingenieur (Oenologie) verbinde ich prozessorientiertes Denken mit moderner Softwareentwicklung.
 
 - **AI-FIRST Workflow:** Ich nutze gezielt **Cursor, GitHub Copilot, Gemini und Antigravity**, um die Entwicklung zu beschleunigen, die Testabdeckung zu maximieren und eine saubere Architektur zu garantieren.
 - **Ziel:** Ich suche aktuell eine Nebentätigkeit auf **Minijob-Basis (ca. 8-10 Std./Woche)**, um meine IT-Expertise in professionelle Projekte einzubringen.
