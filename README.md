@@ -14,36 +14,14 @@ Ich bin Full-Stack-Entwickler mit Fokus auf **Java (Spring Boot)** und **React**
 
 ---
 
-### 🛠 Tech Stack
+### 📂 Projects
 
-**Backend & Database:**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Frontend:**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-
-**AI & Tools:**
-![Cursor](https://img.shields.io/badge/Cursor-AI-blue?style=for-the-badge)
-![GitHub Copilot](https://img.shields.io/badge/Copilot-Black?style=for-the-badge&logo=githubcopilot)
-![Antigravity](https://img.shields.io/badge/Antigravity-agentic_coding-purple?style=for-the-badge)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-### 📂 Featured Project: [VinoFlowApp](https://github.com/dmitrined/VinoFlowApp)
+**[VinoFlowApp](https://github.com/dmitrined/VinoFlowApp)**<br/>
 **A Full-Stack solution for modernizing wine production workflows.**<br/>
 **Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat&logo=nextdotjs&logoColor=white) ![tRPC](https://img.shields.io/badge/tRPC_v11-2596BE?style=flat&logo=trpc&logoColor=white) ![Turso](https://img.shields.io/badge/Turso-4DF8D5?style=flat) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white) ![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat&logo=JSON%20web%20tokens&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat) ![HeroUI](https://img.shields.io/badge/HeroUI-000000?style=flat) ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white) ![PWA](https://img.shields.io/badge/Offline_PWA-5A0FC8?style=flat&logo=pwa&logoColor=white)
 
----
+<br/>
 
-### 📂 Featured Project: [ProProjectWineStore](https://github.com/dmitrined/proProjectWineStore)
+**[ProProjectWineStore](https://github.com/dmitrined/proProjectWineStore)**<br/>
 **A modern wine e-commerce platform featuring an AI sommelier, loyalty system, and event management.**<br/>
 **Tech Stack:** ![Turborepo](https://img.shields.io/badge/Turborepo-000000?style=flat&logo=turborepo&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React_19-20232a?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=flat&logo=liquibase&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white) ![Spring AI](https://img.shields.io/badge/Spring_AI_(Gemini)-6DB33F?style=flat&logo=spring&logoColor=white) ![Tailwind](https://img.shields.io/badge/TailwindCSS_v4-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![HeroUI](https://img.shields.io/badge/HeroUI-000000?style=flat) ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat) ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery&logoColor=white) ![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white) ![PWA](https://img.shields.io/badge/Offline_PWA-5A0FC8?style=flat&logo=pwa&logoColor=white)
