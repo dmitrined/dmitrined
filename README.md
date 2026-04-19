@@ -9,7 +9,7 @@
 **Präzision im Keller, Effizienz im Code.**
 Ich bin Full-Stack-Entwickler mit Fokus auf **Java (Spring Boot)** und **React**. Durch meine langjährige Erfahrung als leitender Ingenieur (Oenologie) verbinde ich prozessorientiertes Denken mit moderner Softwareentwicklung.
 
-- **AI-FIRST Workflow:** Ich nutze gezielt **Cursor, GitHub Copilot und Gemini**, um die Entwicklung zu beschleunigen, die Testabdeckung zu maximieren und eine saubere Architektur zu garantieren.
+- **AI-FIRST Workflow:** Ich nutze gezielt **Cursor, GitHub Copilot, Gemini und Antigravity**, um die Entwicklung zu beschleunigen, die Testabdeckung zu maximieren und eine saubere Architektur zu garantieren.
 - **Ziel:** Ich suche aktuell eine Nebentätigkeit auf **Minijob-Basis (ca. 8-10 Std./Woche)**, um meine IT-Expertise in professionelle Projekte einzubringen.
 
 ---
@@ -32,6 +32,7 @@ Ich bin Full-Stack-Entwickler mit Fokus auf **Java (Spring Boot)** und **React**
 **AI & Tools:**
 ![Cursor](https://img.shields.io/badge/Cursor-AI-blue?style=for-the-badge)
 ![GitHub Copilot](https://img.shields.io/badge/Copilot-Black?style=for-the-badge&logo=githubcopilot)
+![Antigravity](https://img.shields.io/badge/Antigravity-agentic_coding-purple?style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
