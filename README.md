@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Dmitri Nedioglo
-### Full-Stack Developer | AI-FIRST Enthusiast | Engineer (Oenology)
+### Full-Stack Developer | Java & Spring Boot | React & TypeScript | Engineer (Oenology)
 
 **🔗 Quick Links:** 
 [📄 Lebenslauf / CV](./Lebenslauf_Dmitri_Nedioglo.pdf) | [🎓 Zertifikat](./DMITRI%20NEDIOGLO_Zertifikat_Email.pdf) | [📜 Praktikumszeugnis](./DMITRI%20NEDIOGLO_Praktikumszeugnis.pdf) | [🏆 SQL Island](./Certificat_SQL_Island.png)
